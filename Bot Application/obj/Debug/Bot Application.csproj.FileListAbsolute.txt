@@ -1,0 +1,42 @@
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Bot Application.dll.config
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Bot Application.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Bot Application.pdb
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Autofac.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Chronic.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Bot.Builder.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Bot.Connector.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Newtonsoft.Json.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\QnAMakerDialog.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.Net.Http.Formatting.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.Web.Http.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.Web.Http.WebHost.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Autofac.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Bot.Builder.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.Bot.Connector.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\Newtonsoft.Json.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.Net.Http.Formatting.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.Web.Http.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\System.Web.Http.WebHost.xml
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\obj\Debug\Bot Application.dll
+C:\Users\samslee\Source\Repos\BotAPI\Bot Application\obj\Debug\Bot Application.pdb

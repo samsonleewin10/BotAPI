@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  botapplication:
+    image: botapplication
+    build:
+      context: .\Bot Application
+      dockerfile: Dockerfile
